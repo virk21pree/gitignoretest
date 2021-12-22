@@ -1,5 +1,5 @@
 #ignore single file
-modfile1.txt
+newfile1.txt
 
 #ignore files in a folder
 bin/
